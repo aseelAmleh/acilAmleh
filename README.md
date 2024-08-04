@@ -1,2 +1,0 @@
-# acilAmleh
-Training Task
